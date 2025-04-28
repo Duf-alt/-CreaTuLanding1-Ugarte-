@@ -1,0 +1,9 @@
+.cart {
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.count {
+    margin-left: 0.5rem;
+    color: red;
+}
